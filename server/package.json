@@ -14,7 +14,7 @@
     "jso-ee": "0.2.1",
     "koa": "2.1.0",
     "koa-body": "2.0.0",
-    "koa-mongo": "0.7.0",
+    "koa-mongo": "https://github.com/nswbmw/koa-mongo.git#master",
     "koa-mount": "2.0.0",
     "koa-router": "7.0.1",
     "lodash": "4.17.4"
